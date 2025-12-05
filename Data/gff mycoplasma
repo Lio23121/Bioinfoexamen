@@ -1,0 +1,77 @@
+##gff-version 3
+##sequence-region NC_000908.2 1 580076
+NC_000908.2	RefSeq	region	1	580076	.	+	.	ID=region0;Dbxref=taxon:243273;collection-date=Unknown;country=Unknown;isolate=G37;mol_type=genomic DNA;strain=G37
+NC_000908.2	RefSeq	gene	1	107	.	+	.	ID=gene-MG_0001;Name=MG_0001;gbkey=Gene;gene_biotype=protein_coding;gene_id=946477
+NC_000908.2	RefSeq	CDS	1	107	.	+	0	ID=cds-MG_0001;Parent=gene-MG_0001;Dbxref=Genbank:NP_073521.1;Name=NP_073521.1;gbkey=CDS;gene=MG_0001;product=hypothetical protein
+NC_000908.2	RefSeq	gene	124	202	.	+	.	ID=gene-MG_0002;Name=MG_0002;gbkey=Gene;gene_biotype=protein_coding;gene_id=946478
+NC_000908.2	RefSeq	CDS	124	202	.	+	0	ID=cds-MG_0002;Parent=gene-MG_0002;Dbxref=Genbank:NP_073522.1;Name=NP_073522.1;gbkey=CDS;gene=MG_0002;product=hypothetical protein
+NC_000908.2	RefSeq	gene	203	1080	.	+	.	ID=gene-MG_0003;Name=MG_0003;gbkey=Gene;gene_biotype=protein_coding;gene_id=946479
+NC_000908.2	RefSeq	CDS	203	1080	.	+	0	ID=cds-MG_0003;Parent=gene-MG_0003;Dbxref=Genbank:NP_073523.1;Name=NP_073523.1;gbkey=CDS;gene=MG_0003;product=DNA-binding protein
+NC_000908.2	RefSeq	gene	1081	1414	.	+	.	ID=gene-MG_0004;Name=MG_0004;gbkey=Gene;gene_biotype=protein_coding;gene_id=946480
+NC_000908.2	RefSeq	CDS	1081	1414	.	+	0	ID=cds-MG_0004;Parent=gene-MG_0004;Dbxref=Genbank:NP_073524.1;Name=NP_073524.1;gbkey=CDS;gene=MG_0004;product=hypothetical protein
+NC_000908.2	RefSeq	gene	1415	1527	.	+	.	ID=gene-MG_0005;Name=MG_0005;gbkey=Gene;gene_biotype=protein_coding;gene_id=946481
+NC_000908.2	RefSeq	CDS	1415	1527	.	+	0	ID=cds-MG_0005;Parent=gene-MG_0005;Dbxref=Genbank:NP_073525.1;Name=NP_073525.1;gbkey=CDS;gene=MG_0005;product=hypothetical protein
+NC_000908.2	RefSeq	gene	1524	1729	.	-	.	ID=gene-MG_0006;Name=MG_0006;gbkey=Gene;gene_biotype=protein_coding;gene_id=946482
+NC_000908.2	RefSeq	CDS	1524	1729	.	-	0	ID=cds-MG_0006;Parent=gene-MG_0006;Dbxref=Genbank:NP_073526.1;Name=NP_073526.1;gbkey=CDS;gene=MG_0006;product=hypothetical protein
+NC_000908.2	RefSeq	gene	1803	2669	.	-	.	ID=gene-MG_0007;Name=MG_0007;gbkey=Gene;gene_biotype=protein_coding;gene_id=946483
+NC_000908.2	RefSeq	CDS	1803	2669	.	-	0	ID=cds-MG_0007;Parent=gene-MG_0007;Dbxref=Genbank:NP_073527.1;Name=NP_073527.1;gbkey=CDS;gene=MG_0007;product=DNA polymerase III subunit beta
+NC_000908.2	RefSeq	gene	2673	3020	.	-	.	ID=gene-MG_0008;Name=MG_0008;gbkey=Gene;gene_biotype=protein_coding;gene_id=946484
+NC_000908.2	RefSeq	CDS	2673	3020	.	-	0	ID=cds-MG_0008;Parent=gene-MG_0008;Dbxref=Genbank:NP_073528.1;Name=NP_073528.1;gbkey=CDS;gene=MG_0008;product=hypothetical protein
+NC_000908.2	RefSeq	gene	3093	3953	.	-	.	ID=gene-MG_0009;Name=MG_0009;gbkey=Gene;gene_biotype=protein_coding;gene_id=946485
+NC_000908.2	RefSeq	CDS	3093	3953	.	-	0	ID=cds-MG_0009;Parent=gene-MG_0009;Dbxref=Genbank:NP_073529.1;Name=NP_073529.1;gbkey=CDS;gene=MG_0009;product=ribosomal protein S12
+NC_000908.2	RefSeq	gene	3950	4624	.	-	.	ID=gene-MG_0010;Name=MG_0010;gbkey=Gene;gene_biotype=protein_coding;gene_id=946486
+NC_000908.2	RefSeq	CDS	3950	4624	.	-	0	ID=cds-MMG_0010;Parent=gene-MG_0010;Dbxref=Genbank:NP_073530.1;Name=NP_073530.1;gbkey=CDS;gene=MG_0010;product=ribosomal protein S7
+NC_000908.2	RefSeq	gene	4614	5258	.	-	.	ID=gene-MG_0011;Name=MG_0011;gbkey=Gene;gene_biotype=protein_coding;gene_id=946487
+NC_000908.2	RefSeq	CDS	4614	5258	.	-	0	ID=cds-MG_0011;Parent=gene-MG_0011;Dbxref=Genbank:NP_073531.1;Name=NP_073531.1;gbkey=CDS;gene=MG_0011;product=ribosomal protein S10
+NC_000908.2	RefSeq	gene	5258	5838	.	-	.	ID=gene-MG_0012;Name=MG_0012;gbkey=Gene;gene_biotype=protein_coding;gene_id=946488
+NC_000908.2	RefSeq	CDS	5258	5838	.	-	0	ID=cds-MG_0012;Parent=gene-MG_0012;Dbxref=Genbank:NP_073532.1;Name=NP_073532.1;gbkey=CDS;gene=MG_0012;product=ribosomal protein S2
+NC_000908.2	RefSeq	gene	5847	6377	.	-	.	ID=gene-MG_0013;Name=MG_0013;gbkey=Gene;gene_biotype=protein_coding;gene_id=946489
+NC_000908.2	RefSeq	CDS	5847	6377	.	-	0	ID=cds-MG_0013;Parent=gene-MG_0013;Dbxref=Genbank:NP_073533.1;Name=NP_073533.1;gbkey=CDS;gene=MG_0013;product=ribosomal protein S4
+NC_000908.2	RefSeq	gene	6377	6996	.	-	.	ID=gene-MG_0014;Name=MG_0014;gbkey=Gene;gene_biotype=protein_coding;gene_id=946490
+NC_000908.2	RefSeq	CDS	6377	6996	.	-	0	ID=cds-MG_0014;Parent=gene-MG_0014;Dbxref=Genbank:NP_073534.1;Name=NP_073534.1;gbkey=CDS;gene=MG_0014;product=ribosomal protein S3
+NC_000908.2	RefSeq	gene	7020	7370	.	+	.	ID=gene-MG_0015;Name=MG_0015;gbkey=Gene;gene_biotype=protein_coding;gene_id=946491
+NC_000908.2	RefSeq	CDS	7020	7370	.	+	0	ID=cds-MG_0015;Parent=gene-MG_0015;Dbxref=Genbank:NP_073535.1;Name=NP_073535.1;gbkey=CDS;gene=MG_0015;product=ribosomal protein L22
+NC_000908.2	RefSeq	gene	7381	7728	.	+	.	ID=gene-MG_0016;Name=MG_0016;gbkey=Gene;gene_biotype=protein_coding;gene_id=946492
+NC_000908.2	RefSeq	CDS	7381	7728	.	+	0	ID=cds-MG_0016;Parent=gene-MG_0016;Dbxref=Genbank:NP_073536.1;Name=NP_073536.1;gbkey=CDS;gene=MG_0016;product=ribosomal protein L14
+NC_000908.2	RefSeq	gene	7721	8188	.	+	.	ID=gene-MG_0017;Name=MG_0017;gbkey=Gene;gene_biotype=protein_coding;gene_id=946493
+NC_000908.2	RefSeq	CDS	7721	8188	.	+	0	ID=cds-MG_0017;Parent=gene-MG_0017;Dbxref=Genbank:NP_073537.1;Name=NP_073537.1;gbkey=CDS;gene=MG_0017;product=ribosomal protein L24
+NC_000908.2	RefSeq	gene	8193	8733	.	+	.	ID=gene-MG_0018;Name=MG_0018;gbkey=Gene;gene_biotype=protein_coding;gene_id=946494
+NC_000908.2	RefSeq	CDS	8193	8733	.	+	0	ID=cds-MG_0018;Parent=gene-MG_0018;Dbxref=Genbank:NP_073538.1;Name=NP_073538.1;gbkey=CDS;gene=MG_0018;product=ribosomal protein L5
+NC_000908.2	RefSeq	gene	8733	9221	.	+	.	ID=gene-MG_0019;Name=MG_0019;gbkey=Gene;gene_biotype=protein_coding;gene_id=946495
+NC_000908.2	RefSeq	CDS	8733	9221	.	+	0	ID=cds-MG_0019;Parent=gene-MG_0019;Dbxref=Genbank:NP_073539.1;Name=NP_073539.1;gbkey=CDS;gene=MG_0019;product=ribosomal protein L6
+NC_000908.2	RefSeq	gene	9221	9510	.	+	.	ID=gene-MG_0020;Name=MG_0020;gbkey=Gene;gene_biotype=protein_coding;gene_id=946496
+NC_000908.2	RefSeq	CDS	9221	9510	.	+	0	ID=cds-MG_0020;Parent=gene-MG_0020;Dbxref=Genbank:NP_073540.1;Name=NP_073540.1;gbkey=CDS;gene=MG_0020;product=ribosomal protein L18
+NC_000908.2	RefSeq	gene	9503	10177	.	+	.	ID=gene-MG_0021;Name=MG_0021;gbkey=Gene;gene_biotype=protein_coding;gene_id=946497
+NC_000908.2	RefSeq	CDS	9503	10177	.	+	0	ID=cds-MG_0021;Parent=gene-MG_0021;Dbxref=Genbank:NP_073541.1;Name=NP_073541.1;gbkey=CDS;gene=MG_0021;product=ribosomal protein L9
+NC_000908.2	RefSeq	gene	10172	10855	.	+	.	ID=gene-MG_0022;Name=MG_0022;gbkey=Gene;gene_biotype=protein_coding;gene_id=946498
+NC_000908.2	RefSeq	CDS	10172	10855	.	+	0	ID=cds-MG_0022;Parent=gene-MG_0022;Dbxref=Genbank:NP_073542.1;Name=NP_073542.1;gbkey=CDS;gene=MG_0022;product=ribosomal protein L34
+NC_000908.2	RefSeq	gene	10844	11308	.	+	.	ID=gene-MG_0023;Name=MG_0023;gbkey=Gene;gene_biotype=protein_coding;gene_id=946499
+NC_000908.2	RefSeq	CDS	10844	11308	.	+	0	ID=cds-MG_0023;Parent=gene-MG_0023;Dbxref=Genbank:NP_073543.1;Name=NP_073543.1;gbkey=CDS;gene=MG_0023;product=ribosomal protein L36
+NC_000908.2	RefSeq	gene	11305	11850	.	+	.	ID=gene-MG_0024;Name=MG_0024;gbkey=Gene;gene_biotype=protein_coding;gene_id=946500
+NC_000908.2	RefSeq	CDS	11305	11850	.	+	0	ID=cds-MG_0024;Parent=gene-MG_0024;Dbxref=Genbank:NP_073544.1;Name=NP_073544.1;gbkey=CDS;gene=MG_0024;product=ribosomal protein L35
+NC_000908.2	RefSeq	gene	11850	12641	.	+	.	ID=gene-MG_0025;Name=MG_0025;gbkey=Gene;gene_biotype=protein_coding;gene_id=946501
+NC_000908.2	RefSeq	CDS	11850	12641	.	+	0	ID=cds-MG_0025;Parent=gene-MG_0025;Dbxref=Genbank:NP_073545.1;Name=NP_073545.1;gbkey=CDS;gene=MG_0025;product=ribosomal protein S8
+NC_000908.2	RefSeq	gene	12641	13171	.	+	.	ID=gene-MG_0026;Name=MG_0026;gbkey=Gene;gene_biotype=protein_coding;gene_id=946502
+NC_000908.2	RefSeq	CDS	12641	13171	.	+	0	ID=cds-MG_0026;Parent=gene-MG_0026;Dbxref=Genbank:NP_073546.1;Name=NP_073546.1;gbkey=CDS;gene=MG_0026;product=ribosomal protein L15
+NC_000908.2	RefSeq	gene	13168	13758	.	+	.	ID=gene-MG_0027;Name=MG_0027;gbkey=Gene;gene_biotype=protein_coding;gene_id=946503
+NC_000908.2	RefSeq	CDS	13168	13758	.	+	0	ID=cds-MG_0027;Parent=gene-MG_0027;Dbxref=Genbank:NP_073547.1;Name=NP_073547.1;gbkey=CDS;gene=MG_0027;product=ribosomal protein S5
+NC_000908.2	RefSeq	gene	13755	14474	.	+	.	ID=gene-MG_0028;Name=MG_0028;gbkey=Gene;gene_biotype=protein_coding;gene_id=946504
+NC_000908.2	RefSeq	CDS	13755	14474	.	+	0	ID=cds-MG_0028;Parent=gene-MG_0028;Dbxref=Genbank:NP_073548.1;Name=NP_073548.1;gbkey=CDS;gene=MG_0028;product=ribosomal protein L30
+NC_000908.2	RefSeq	gene	14474	15094	.	+	.	ID=gene-MG_0029;Name=MG_0029;gbkey=Gene;gene_biotype=protein_coding;gene_id=946505
+NC_000908.2	RefSeq	CDS	14474	15094	.	+	0	ID=cds-MG_0029;Parent=gene-MG_0029;Dbxref=Genbank:NP_073549.1;Name=NP_073549.1;gbkey=CDS;gene=MG_0029;product=ribosomal protein S13
+NC_000908.2	RefSeq	gene	15091	15525	.	+	.	ID=gene-MG_0030;Name=MG_0030;gbkey=Gene;gene_biotype=protein_coding;gene_id=946506
+NC_000908.2	RefSeq	CDS	15091	15525	.	+	0	ID=cds-MG_0030;Parent=gene-MG_0030;Dbxref=Genbank:NP_073550.1;Name=NP_073550.1;gbkey=CDS;gene=MG_0030;product=ribosomal protein S11
+NC_000908.2	RefSeq	gene	15522	16016	.	+	.	ID=gene-MG_0031;Name=MG_0031;gbkey=Gene;gene_biotype=protein_coding;gene_id=946507
+NC_000908.2	RefSeq	CDS	15522	16016	.	+	0	ID=cds-MG_0031;Parent=gene-MG_0031;Dbxref=Genbank:NP_073551.1;Name=NP_073551.1;gbkey=CDS;gene=MG_0031;product=ribosomal protein L32
+NC_000908.2	RefSeq	gene	16013	16492	.	+	.	ID=gene-MG_0032;Name=MG_0032;gbkey=Gene;gene_biotype=protein_coding;gene_id=946508
+NC_000908.2	RefSeq	CDS	16013	16492	.	+	0	ID=cds-MG_0032;Parent=gene-MG_0032;Dbxref=Genbank:NP_073552.1;Name=NP_073552.1;gbkey=CDS;gene=MG_0032;product=ribosomal protein L33
+NC_000908.2	RefSeq	gene	16503	17174	.	+	.	ID=gene-MG_0033;Name=MG_0033;gbkey=Gene;gene_biotype=protein_coding;gene_id=946509
+NC_000908.2	RefSeq	CDS	16503	17174	.	+	0	ID=cds-MG_0033;Parent=gene-MG_0033;Dbxref=Genbank:NP_073553.1;Name=NP_073553.1;gbkey=CDS;gene=MG_0033;product=ribosomal protein L20
+NC_000908.2	RefSeq	gene	17171	17734	.	+	.	ID=gene-MG_0034;Name=MG_0034;gbkey=Gene;gene_biotype=protein_coding;gene_id=946510
+NC_000908.2	RefSeq	CDS	17171	17734	.	+	0	ID=cds-MG_0034;Parent=gene-MG_0034;Dbxref=Genbank:NP_073554.1;Name=NP_073554.1;gbkey=CDS;gene=MG_0034;product=ribosomal protein L31
+NC_000908.2	RefSeq	gene	17724	18341	.	+	.	ID=gene-MG_0035;Name=MG_0035;gbkey=Gene;gene_biotype=protein_coding;gene_id=946511
+NC_000908.2	RefSeq	CDS	17724	18341	.	+	0	ID=cds-MG_0035;Parent=gene-MG_0035;Dbxref=Genbank:NP_073555.1;Name=NP_073555.1;gbkey=CDS;gene=MG_0035;product=ribosomal protein S19
+NC_000908.2	RefSeq	gene	18329	19132	.	+	.	ID=gene-MG_0036;Name=MG_0036;gbkey=Gene;gene_biotype=protein_coding;gene_id=946512
+NC_000908.2	RefSeq	CDS	18329	19132	.	+	0	ID=cds-MG_0036;Parent=gene-MG_0036;Dbxref=Genbank:NP_073556.1;Name=NP_073556.1;gbkey=CDS;gene=MG_0036;product=ribosomal protein S16
+NC_000908.2	RefSeq	gene	19132	19680	.	+	.	ID=gene-MG_0037;Name=MG_0037;gbkey=Gene;gene_biotype=protein_coding;gene_id=946513
+NC_000908.2	RefSeq	CDS	19132	19680	.	+	0	ID=cds-MG_0037;Parent=gene-MG_0037;Dbxref=Genbank:NP_073557.1;Name=NP_073557.1;gbkey=CDS;gene=MG_0037;product=ribosomal protein L27

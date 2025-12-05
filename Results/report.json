@@ -1,0 +1,17 @@
+{
+  "total_features": 75,
+  "by_type": {
+    "region": 1,
+    "gene": 37,
+    "CDS": 37
+  },
+  "avg_length": {
+    "region": 580076.0,
+    "gene": 529.0,
+    "CDS": 529.0
+  },
+  "strand_distribution": {
+    "+": 57,
+    "-": 18
+  }
+}
